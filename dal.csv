@@ -1,3 +1,7 @@
-telefono,compañia,representa,ultima
-5547440145,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,02/08/15
-5547440170,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,01/08/15
+telefono,compañia,representa,ultima,tipo
+5547440145,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,02/08/15,llamada
+5547440170,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,01/08/15,llamada
+5545206454,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,05/08/15,llamada
+5529440498,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,22/07/15,llamada
+5532275896,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,24/08/15,sms
+5526364501,"Muñoz C y Asociados, S. A. de C. V.",Bancomer,24/08/15,sms
